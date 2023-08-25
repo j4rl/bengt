@@ -1,5 +1,5 @@
 *{
-    outline:1px dotted red;
+    --outline:1px dotted red;
     margin: 0;  
     padding: 0;
     box-sizing: border-box;
@@ -17,6 +17,7 @@ h1{
     color: rgba(43, 43, 62, 0.6)
 
 }
+
 body{
     font-size: 22px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
