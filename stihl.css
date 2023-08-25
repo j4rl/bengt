@@ -1,0 +1,26 @@
+*{
+    outline:1px dotted red;
+    margin: 0;  
+    padding: 0;
+    box-sizing: border-box;
+}
+.main  {
+    background: #c0f3f3;
+    width:60%;
+    padding: 2rem;
+    margin-inline: auto;
+    margin-top:2rem;
+    box-shadow: 10px 10px 50px rgb(0,0,0,.3);
+}
+h1{
+    font-size: 4rem;
+    color: rgba(43, 43, 62, 0.6)
+
+}
+body{
+    font-size: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: url("https://picsum.photos/id/69/1000/1000/?blur=10");
+    background-size: cover;
+    height:calc(100vh - 2rem);
+}
